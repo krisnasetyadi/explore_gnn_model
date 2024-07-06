@@ -1,0 +1,101 @@
+ID,Gender,Residence Zone,Education Level,Years of Experience,Desired Salary,Status,Age,Marital Status,Residence Distance,Job Title,Skill 1,Skill 2,Skill 3,Skill 4,Skill 5,Skill 6,Skill 7,Skill 8,Skill 9,Skill 10
+C1,Other,Zone D,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Manufacturing Sales Representative Staff,Critical Thinking,-,Data Visualization,-,-,-,-,-,Creativity,-
+C2,Female,Zone I,Master's Degree,Advanced,Medium,Interviewing,Old,Widowed,Far,Manufacturing Techinical Staff,-,-,-,Communication,-,Time Management,Team Work,-,-,Leadership
+C3,Other,Zone D,PhD,Advanced,Medium,Offered,Young,Single,Medium,Financial Analyst Manager,Critical Thinking,-,-,-,Analytical Thinking,-,-,-,Creativity,-
+C4,Female,Zone G,High School,Beginner,High,Interviewing,Middle,Divorced,Medium,Manufacturing Techinical Staff,-,-,-,Communication,-,Time Management,Team Work,-,-,Leadership
+C5,Female,Zone C,High School,Intermediate,Low,Offered,Old,Married,Medium,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C6,Other,Zone C,Master's Degree,Advanced,Medium,Offered,Old,Widowed,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C7,Female,Zone J,Master's Degree,Advanced,High,Interviewing,Old,Divorced,Far,Financial Analyst Manager,Critical Thinking,-,-,-,Analytical Thinking,-,-,-,Creativity,-
+C8,Male,Zone B,PhD,Advanced,High,Interviewing,Middle,Divorced,Far,Manufacturing Techinical Manager,-,-,Data Visualization,Communication,-,Time Management,Team Work,Adaptability,Creativity,-
+C9,Male,Zone I,Master's Degree,Beginner,High,Offered,Young,Single,Far,Manufacturing Risk Manager,Critical Thinking,-,Data Visualization,-,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C10,Other,Zone J,PhD,Advanced,Low,Offered,Young,Married,Far,Manufacturing Enginner Manager,Critical Thinking,Problem Solving,-,Communication,-,Time Management,-,-,Creativity,-
+C11,Other,Zone B,PhD,Advanced,Medium,Interviewing,Old,Married,Far,Chief Executive Officer,Critical Thinking,-,-,Communication,Analytical Thinking,-,-,-,-,Leadership
+C12,Male,Zone C,Bachelor's Degree,Intermediate,High,Interviewing,Middle,Divorced,Medium,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C13,Female,Zone C,High School,Intermediate,Low,Interviewing,Old,Widowed,Medium,Manufacturing Enginner Staff,Critical Thinking,Problem Solving,Data Visualization,-,Analytical Thinking,-,Team Work,Adaptability,-,Leadership
+C14,Male,Zone B,PhD,Advanced,Medium,Interviewing,Old,Widowed,Far,Material Control Staff,-,-,-,Communication,Analytical Thinking,-,-,-,Creativity,-
+C15,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C16,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,Adaptability,-,Leadership
+C17,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C18,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,Analytical Thinking,Time Management,-,-,-,-
+C19,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C20,Male,Zone F,PhD,Beginner,High,Offered,Middle,Widowed,Near,Purchasing Manager,-,Problem Solving,-,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C21,Female,Zone F,High School,Advanced,High,Offered,Old,Widowed,Near,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C22,Male,Zone F,Master's Degree,Intermediate,High,Interviewing,Middle,Married,Near,Financial Analyst Staff,Critical Thinking,-,Data Visualization,-,-,Time Management,Team Work,-,-,Leadership
+C23,Male,Zone C,Bachelor's Degree,Beginner,High,Offered,Middle,Divorced,Medium,Manufacturing Analyst Staff,Critical Thinking,Problem Solving,Data Visualization,-,-,Time Management,Team Work,-,-,-
+C24,Male,Zone I,Master's Degree,Intermediate,Medium,Offered,Young,Married,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C25,Male,Zone G,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,Manufacturing Techinical Manager,-,-,Data Visualization,Communication,-,Time Management,Team Work,Adaptability,Creativity,-
+C26,Other,Zone F,Master's Degree,Beginner,High,Offered,Young,Single,Near,Public Relations Staff,Critical Thinking,Problem Solving,-,Communication,-,Time Management,-,Adaptability,-,-
+C27,Male,Zone I,PhD,Advanced,Medium,Offered,Young,Single,Far,Financial Analyst Manager,Critical Thinking,-,-,-,Analytical Thinking,-,-,-,Creativity,-
+C28,Male,Zone G,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,Manufacturing Design Engineer Manager,-,Problem Solving,Data Visualization,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C29,Female,Zone E,Bachelor's Degree,Advanced,High,Offered,Old,Widowed,Near,Manufacturing Techinical Staff,-,-,-,Communication,-,Time Management,Team Work,-,-,Leadership
+C30,Other,Zone G,Master's Degree,Beginner,High,Interviewing,Middle,Widowed,Medium,Food Service Manager,Critical Thinking,-,-,Communication,-,Time Management,-,Adaptability,-,-
+C31,Female,Zone I,High School,Advanced,High,Interviewing,Old,Widowed,Far,Manufacturing Techinical Staff,-,-,-,Communication,-,Time Management,Team Work,-,-,Leadership
+C32,Female,Zone F,High School,Intermediate,High,Offered,Middle,Widowed,Near,Management Accountant Staff,-,-,Data Visualization,Communication,-,-,-,Adaptability,Creativity,-
+C33,Female,Zone C,Bachelor's Degree,Advanced,Medium,Offered,Young,Single,Medium,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C34,Other,Zone D,Master's Degree,Advanced,High,Offered,Old,Divorced,Medium,Manufacturing Techinical Manager,-,-,Data Visualization,Communication,-,Time Management,Team Work,Adaptability,Creativity,-
+C35,Female,Zone H,High School,Intermediate,Low,Interviewing,Middle,Married,Medium,Production Planning Staff,-,Problem Solving,Data Visualization,-,Analytical Thinking,-,Team Work,-,Creativity,Leadership
+C36,Female,Zone J,High School,Beginner,High,Interviewing,Middle,Divorced,Far,Human Resources Staff,-,-,-,Communication,Analytical Thinking,-,-,Adaptability,Creativity,Leadership
+C37,Other,Zone B,High School,Beginner,High,Offered,Old,Divorced,Far,Financial Analyst Staff,Critical Thinking,-,Data Visualization,-,-,Time Management,Team Work,-,-,Leadership
+C38,Other,Zone A,PhD,Advanced,Medium,Interviewing,Middle,Single,Far,Procurement Material Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,-,Adaptability,Creativity,-
+C39,Other,Zone J,Bachelor's Degree,Advanced,Low,Offered,Old,Single,Far,Material Control Staff,-,-,-,Communication,Analytical Thinking,-,-,-,Creativity,-
+C40,Female,Zone F,Master's Degree,Advanced,Medium,Offered,Middle,Single,Near,Public Relations Enginner Staff,Critical Thinking,-,Data Visualization,-,-,Time Management,-,Adaptability,Creativity,-
+C41,Male,Zone E,High School,Advanced,Low,Interviewing,Middle,Single,Near,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C42,Male,Zone G,Bachelor's Degree,Advanced,Medium,Offered,Old,Widowed,Medium,Customer Care Manager,Critical Thinking,Problem Solving,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C43,Other,Zone G,Master's Degree,Intermediate,High,Interviewing,Young,Married,Medium,Financial Analyst Staff,Critical Thinking,-,Data Visualization,-,-,Time Management,Team Work,-,-,Leadership
+C44,Male,Zone A,High School,Advanced,High,Offered,Middle,Divorced,Far,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C45,Other,Zone A,PhD,Advanced,Low,Offered,Middle,Single,Far,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C46,Male,Zone G,High School,Advanced,High,Interviewing,Middle,Divorced,Medium,Manufacturing Accountant Staff,Critical Thinking,Problem Solving,Data Visualization,Communication,-,Time Management,-,Adaptability,-,Leadership
+C47,Other,Zone A,Master's Degree,Beginner,High,Interviewing,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C48,Female,Zone A,PhD,Beginner,Low,Offered,Young,Single,Far,Quality Control Manager,-,Problem Solving,-,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C49,Other,Zone J,Bachelor's Degree,Advanced,Low,Interviewing,Middle,Single,Far,Manufacturing Enginner Staff,Critical Thinking,Problem Solving,Data Visualization,-,Analytical Thinking,-,Team Work,Adaptability,-,Leadership
+C50,Male,Zone H,Master's Degree,Beginner,Medium,Interviewing,Old,Divorced,Medium,Manufacturing Enginner Staff,Critical Thinking,Problem Solving,Data Visualization,-,Analytical Thinking,-,Team Work,Adaptability,-,Leadership
+C51,Male,Zone H,PhD,Advanced,Medium,Interviewing,Middle,Divorced,Medium,Manufacturing Techinical Staff,Critical Thinking,-,-,-,-,-,Team Work,Adaptability,Creativity,Leadership
+C52,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C53,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,Adaptability,-,Leadership
+C54,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C55,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,Analytical Thinking,Time Management,-,-,-,-
+C56,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C57,Male,Zone F,PhD,Beginner,High,Offered,Middle,Widowed,Near,Purchasing Manager,-,Problem Solving,-,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C58,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C59,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,Adaptability,-,Leadership
+C60,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C61,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,Analytical Thinking,Time Management,-,-,-,-
+C62,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C63,Male,Zone F,PhD,Beginner,High,Offered,Middle,Widowed,Near,Purchasing Manager,-,Problem Solving,-,Communication,Analytical Thinking,-,Team Work,-,Creativity,Leadership
+C64,Female,Zone F,High School,Advanced,High,Offered,Old,Widowed,Near,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,-,Time Management,Team Work,-,Creativity,-
+C65,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C66,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,-,-,Leadership
+C67,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C68,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,-,Time Management,-,-,-,-
+C69,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C70,Male,Zone F,PhD,Beginner,High,Offered,Middle,Widowed,Near,Purchasing Manager,-,Problem Solving,-,Communication,-,-,-,Adaptability,Creativity,Leadership
+C71,Female,Zone F,High School,Advanced,High,Offered,Old,Widowed,Near,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,-,Team Work,-,Creativity,-
+C72,Male,Zone F,Master's Degree,Intermediate,High,Interviewing,Middle,Married,Near,Financial Analyst Staff,Critical Thinking,-,Data Visualization,-,-,Time Management,Team Work,-,-,Leadership
+C73,Male,Zone C,Bachelor's Degree,Beginner,High,Offered,Middle,Divorced,Medium,Manufacturing Analyst Staff,Critical Thinking,Problem Solving,Data Visualization,-,-,Time Management,Team Work,-,-,-
+C74,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,Adaptability,-,Leadership
+C75,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,-,Leadership
+C76,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,Analytical Thinking,Time Management,-,-,-,-
+C77,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C78,Male,Zone H,PhD,Advanced,Medium,Interviewing,Middle,Divorced,Medium,Manufacturing Techinical Staff,Critical Thinking,-,-,-,-,-,Team Work,Adaptability,Creativity,Leadership
+C79,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Chief Executive Officer,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C80,Other,Zone B,PhD,Advanced,Medium,Interviewing,Old,Married,Far,Chief Executive Officer,Critical Thinking,-,-,Communication,Analytical Thinking,-,-,-,-,Leadership
+C81,Male,Zone C,Bachelor's Degree,Intermediate,High,Interviewing,Middle,Divorced,Medium,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,-,Time Management,Team Work,-,Creativity,-
+C82,Female,Zone C,High School,Intermediate,Low,Interviewing,Old,Widowed,Medium,Manufacturing Enginner Staff,Critical Thinking,-,Data Visualization,-,Analytical Thinking,-,-,Adaptability,-,Leadership
+C83,Male,Zone B,PhD,Advanced,Medium,Interviewing,Old,Widowed,Far,Material Control Staff,-,-,-,Communication,Analytical Thinking,-,-,-,Creativity,-
+C84,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,Adaptability,-,Leadership
+C85,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,-,Creativity,-
+C86,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,Adaptability,-,Leadership
+C87,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C88,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,Analytical Thinking,Time Management,-,-,-,-
+C89,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C90,Male,Zone F,PhD,Beginner,High,Offered,Middle,Widowed,Near,Purchasing Manager,-,Problem Solving,-,Communication,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C91,Male,Zone D,Bachelor's Degree,Beginner,High,Interviewing,Old,Divorced,Medium,Customer Care Staff,-,-,Data Visualization,Communication,Analytical Thinking,-,Team Work,-,Creativity,Leadership
+C92,Male,Zone C,PhD,Advanced,Low,Interviewing,Middle,Single,Medium,Public Relations Manager,Critical Thinking,-,Data Visualization,-,-,-,-,Adaptability,-,-
+C93,Female,Zone A,Bachelor's Degree,Intermediate,High,Offered,Old,Divorced,Far,Technology Analyst Manager,-,-,Data Visualization,-,Analytical Thinking,Time Management,-,Adaptability,Creativity,Leadership
+C94,Male,Zone A,High School,Advanced,Low,Interviewing,Young,Married,Far,Maintenance Technician Staff,-,-,-,-,Analytical Thinking,-,-,-,-,-
+C95,Male,Zone D,Master's Degree,Advanced,High,Offered,Middle,Divorced,Medium,HSE Engineer Manager,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,Adaptability,-,-
+C96,Male,Zone F,PhD,Beginner,High,Offered,Middle,Widowed,Near,Purchasing Manager,-,-,-,-,Analytical Thinking,-,Team Work,Adaptability,Creativity,Leadership
+C97,Female,Zone F,High School,Advanced,High,Offered,Old,Widowed,Near,Research and Development Enginner Staff,Critical Thinking,Problem Solving,-,Communication,Analytical Thinking,Time Management,Team Work,-,Creativity,-
+C98,Male,Zone F,Master's Degree,Intermediate,High,Interviewing,Middle,Married,Near,Manufacturing Enginner Manager,Critical Thinking,-,Data Visualization,-,-,-,Team Work,-,-,Leadership
+C99,Male,Zone C,Bachelor's Degree,Beginner,High,Offered,Middle,Divorced,Medium,Manufacturing Analyst Staff,Critical Thinking,Problem Solving,Data Visualization,-,-,Time Management,Team Work,-,-,-
+C100,Male,Zone H,PhD,Advanced,Medium,Interviewing,Middle,Divorced,Medium,Manufacturing Techinical Staff,Critical Thinking,-,-,-,-,-,Team Work,Adaptability,Creativity,Leadership
